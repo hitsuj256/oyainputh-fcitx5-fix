@@ -1,4 +1,5 @@
-version 1.9.3
+version 1.9.4
+
 # oyainput-fcitx5-fix
 This is a fork of [oyainput](https://github.com/inwskatsube/oyainput), modified to support Fcitx5.  
 This project is not intended to replace the original but serves as a workaround for Fcitx5 environments until official support is available.  
